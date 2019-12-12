@@ -19,7 +19,7 @@
 					A -> a b | d	-> WRONG
 				}
 			7.Violation of any of these rules can lead to undefined behaviour.
-			8...
+			8...//
 ;
 **/
 #include <iostream>
