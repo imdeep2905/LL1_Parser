@@ -1,2 +1,8 @@
-# LL1_Parser
-Implimentation for LL1 parser
+
+# LL1 Parser
+
+Implementation of LL1 parser in C++.
+
+
+
+
